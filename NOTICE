@@ -1,0 +1,14 @@
+This product, Talvaar Image Optimizer, was created by Talvaar@indpriyanshuraj.
+
+This software includes the work of several open-source projects:
+
+- **Pillow (PIL Fork)**: Used for core image manipulation.
+  - Licensed under the HPND License.
+  - https://github.com/python-pillow/Pillow
+
+- **rich**: Used for creating the rich command-line user interface.
+  - Licensed under the MIT License.
+  - https://github.com/Textualize/rich
+
+- **Google Gemini**: The core logic, modular structure, testing, and documentation of this application were developed with the assistance of the Google Gemini large language model.
+  - https://gemini.google.com/
