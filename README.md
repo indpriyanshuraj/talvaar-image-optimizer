@@ -87,12 +87,22 @@ python main.py "assets/minecraft/textures/" \
 | `--conflict`              | What to do on filename conflict (`overwrite`, `keep_both`).               | `overwrite`  |
 | `--threads`               | Number of threads to use.                                                 | `auto`       |
 
+## Project Files & Documentation
+
+- **User Guide & Internals**: [docs/](docs/)
+- **Dependencies**: [requirements.txt](requirements.txt)
+- **Contributors**: [CONTRIBUTORS.md](CONTRIBUTORS.md)
+- **License**: [LICENSE](LICENSE)
+- **Third-party Notices**: [NOTICE](NOTICE)
+
 ## License
 
 This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
-- **Creator / Contributor**: Talvaar@indpriyanshu
+- **Creator / Contributor**: Talvaar@indpriyanshuraj
+- **Co-Pilot / Refactoring**: Gemini
+- **Consultant / Prototyping**: ChatGPT (Feedback, Base/Proto code, Suggestions)
 
 See the [NOTICE](NOTICE) file for information on third-party libraries and other acknowledgments.
